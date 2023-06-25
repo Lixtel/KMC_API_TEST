@@ -1,0 +1,4 @@
+#created by Lixtel Rubis 06/26/2023
+pytest==7.2.2
+pytest-bdd==6.1.1
+requests==2.30.0
